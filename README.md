@@ -8,6 +8,7 @@ Thanks to neon-age (https://github.com/neon-age/Unify) for pointing out how but 
 - Only tested for Unity 6 (specifically 6000.0.12f)
 - Install NugetForUnity package: https://github.com/GlitchEnzo/NuGetForUnity
 - Install Harmony or HarmonyX from NugetForUnity
+  - we are using HarmonyX 2.10.2 since newest version on either Harmony and HarmonyX gives us errors 
 
 # Installation:
 - Open Unity Package Manager
