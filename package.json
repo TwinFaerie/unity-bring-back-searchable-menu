@@ -1,0 +1,19 @@
+{
+  "name": "com.twinfaerie.searchablecontextmenu",
+  "version": "1.0.1",
+  "displayName": "TwinFaerie Searchable ContextMenu",
+  "description": "TwinFaerie solution to bring back Searchable ContextMenu",
+  "unity": "2020.2",
+  "documentationUrl": "https://github.com/TwinFaerie/unity-bring-back-searchable-menu",
+  "changelogUrl": "https://github.com/TwinFaerie/unity-bring-back-searchable-menu/releases",
+  "licensesUrl": "https://github.com/TwinFaerie/unity-bring-back-searchable-menu/blob/main/LICENSE",
+  "repository": "https://github.com/TwinFaerie/unity-bring-back-searchable-menu",
+  "publishConfig": {
+    "registry": "https://package.openupm.com"
+  },
+  "author": {
+    "name": "Twin Faerie",
+    "email": "support@twinfaerie.my.id",
+    "url": "https://www.twinfaerie.my.id/"
+  }
+}
